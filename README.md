@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @RaizelMidha
-- 👀 I’m interested in Dance, Movies and Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Programming and ML
-- 📫 How to reach me raizelmidha123@gmail.com  
-- 😄 Pronouns: She/Her
+Hi, I'm Raizel Midha 
+💻 CS major at UIUC (she/her)
+🤖 Interested in Machine Learning, AI, and building cool things with code
+🌱 Always learning and looking for opportunities to grow through projects and collaboration
 
 <!---
 RaizelMidha/RaizelMidha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
